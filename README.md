@@ -10,7 +10,7 @@ Per avviare l'applicazione:
 
 - Configurare le variabili di ambiente usando il file `.env.example` come riferimento per creare un file `.env`
 - Avviare il server backend col comando `npm start`
-- Avviare il server frontend col comando `npm start`
+- Avviare il client frontend col comando `npm start`
 
 Per creare un cluster su MongoDB:
 
